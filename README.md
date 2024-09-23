@@ -4,12 +4,27 @@ EduPulse ReportHub is a Streamlit-based web app designed to generate insightful 
 
 Features
 📋 CSV File Upload: Upload student performance data in CSV format.
+
+
 📊 Data Visualization: Visuals for subject-wise performance and overall student statistics.
+
+
 📈 Top and Least Performers: Automatically highlights the top 5 and least 5 students based on their scores.
+
+
 🧮 Pass & Fail Analysis: Calculates overall pass and fail percentages for the class and per subject.
+
+
 📚 Multiple Subject Failure Count: Identifies students who have failed in multiple subjects.
+
+
 📃 Downloadable Report: Generate and download a 2-page report in Word format with performance summaries.
+
+
 🎨 Colorful & Customizable Report: The report is well-formatted, colorful, and professional, with a focus on readability and aesthetics.
+
+
+
 App Interface
 Welcome Page:
 
